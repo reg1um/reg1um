@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**reg1um/reg1um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 AI/ML Computer Science Student @ **EPITA**  
+🤖 Passionate about **Machine Learning, NLP, and Deep Learning**  
+💡 Always exploring cutting-edge AI research and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### [📝 NLP-powered Chatbot](https://github.com/yourusername/nlp-chatbot)
+A chatbot that understands and generates human-like responses using **Transformers and GPT-based models**.
+
+## 🌍 Connect With Me
+
+📫 **Email**: [ahamard@outlook.fr](mailto:ahamard@outlook.fr)  
+💼 **LinkedIn**: [linkedin.com/in/arthur-hamard](https://linkedin.com/in/arthur-hamard)  
+📂 **Portfolio**: [tbd.com](https://yourwebsite.com)  
+
+## 🔥 Let's Collaborate!
+I'm open to exciting AI/ML projects, research collaborations, and internships. If you have an opportunity, feel free to reach out! 🚀
