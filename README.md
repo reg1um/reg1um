@@ -13,7 +13,7 @@ A chatbot that understands and generates human-like responses using **Transforme
 
 ## 🌍 Connect With Me
 
-📫 **Email**: [ahamard@outlook.fr](mailto:ahamard@outlook.fr)  
+📫 **Email**: [arthurhmr@outlook.fr](mailto:arthurhmr@outlook.fr)  
 💼 **LinkedIn**: [linkedin.com/in/arthur-hamard](https://linkedin.com/in/arthur-hamard)  
 📂 **Portfolio**: [tbd.com](https://yourwebsite.com)  
 
