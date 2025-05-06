@@ -15,7 +15,6 @@ A chatbot that understands and generates human-like responses using **Transforme
 
 📫 **Email**: [arthurhmr@outlook.fr](mailto:arthurhmr@outlook.fr)  
 💼 **LinkedIn**: [linkedin.com/in/arthur-hamard](https://linkedin.com/in/arthur-hamard)  
-📂 **Portfolio**: [tbd.com](https://yourwebsite.com)  
 
 ## 🔥 Let's Collaborate!
 I'm open to exciting AI/ML projects, research collaborations, and internships. If you have an opportunity, feel free to reach out! 🚀
